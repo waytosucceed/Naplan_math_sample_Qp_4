@@ -1,0 +1,395 @@
+{
+  "heading": "Sample Paper 4",
+  "topics": [
+    {
+      "heading": "Sample Paper 4",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What number will come next in this number pattern?<br><img width='35%' src='./assests/images/1.png'>",
+          "options": [
+            { "text": "66" },
+            { "text": "86" },
+            { "text": "96" },
+            { "text": "76" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Which of the following options has numbers in the order from smallest to largest?",
+          "options": [
+            { "image": "./assests/option/1.png" },
+            { "image": "./assests/option/2.png" },
+            { "image": "./assests/option/3.png" },
+            { "image": "./assests/option/4.png" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 3,
+          "question": "Emma has long sticks that are worth 10 and small cubes that are worth 1.<br><img width='25%' src='./assests/images/2.png'><br> What number does this tack make?",
+          "options": [
+            { "text": "64" },
+            { "text": "36" },
+            { "text": "63" },
+            { "text": "35" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Which number has an odd digit in the tens place and even digit in the ones place?",
+          "options": [
+            { "text": "27" },
+            { "text": "29" },
+            { "text": "54" },
+            { "text": "33" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "How much is double this amount?<br><img width='50%' src='./assests/images/3.png'>",
+          "options": [
+            { "text": "$1.00" },
+            { "text": "$0.50" },
+            { "text": "$1.10" },
+            { "text": "$1.20" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "What would this shape look like if it was flipped upside-down?<br><img width='10%' src='./assests/images/4.png'>",
+          "options": [
+            { "image": "./assests/option/1.jpg" },
+            { "image": "./assests/option/2.jpg" },
+            { "image": "./assests/option/3.jpg" },
+            { "image": "./assests/option/4.jpg" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Below is the chart showing the number of sheep lost by Lily on different days:<br><img width='35%' src='./assests/images/5.png'><br> On which two days together did she lose seven sheep?",
+          "options": [
+            { "text": "Tuesday and Monday" },
+            { "text": "Monday and Sunday" },
+            { "text": "Wednesday and Sunday" },
+            { "text": "Wednesday and Tuesday" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 8,
+          "question": "Below is a piece of wood.<br><img width='30%' src='./assests/images/6.png'><br>This piece of wood is to be cut into pieces that are 10 centimetres long. How many pieces can be made from it?",
+          "options": [
+            { "text": "5" },
+            { "text": "8" },
+            { "text": "6" },
+            { "text": "10" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 9,
+          "question": "Look at these trees. Each tree has 5 mangoes on it.<br><img width='50%' src='./assests/images/7.png'><br> Which sum shows how many mangoes are there altogether?",
+          "options": [
+            { "text": "4 + 4 + 4 + 4" },
+            { "text": "5 + 4 + 5 + 4" },
+            { "text": "4 + 4 + 4 + 4 + 4" },
+            { "text": "5 + 5 + 5 + 5" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "Here are some packets of chips.<br><img width='40%' src='./assests/images/8.png'><br> If I share them into 3 equal groups, how many packets are in each group?",
+          "options": [
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" },
+            { "text": "6" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "<br><img width='23%' src='./assests/images/9.png'><br>Cindy started at the star on the grid. She moved 4 spaces right and 3 spaces down. What shape is she in now?",
+          "options": [
+            { "image": "./assests/option/5.jpg" },
+            { "image": "./assests/option/6.jpg" },
+            { "image": "./assests/option/7.jpg" },
+            { "image": "./assests/option/8.jpg" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "In the given pattern which shape will come next in the given empty box?<br><img width='50%' src='./assests/images/10.png'>",
+          "options": [
+            { "image": "./assests/option/9.jpg" },
+            { "image": "./assests/option/10.jpg" },
+            { "image": "./assests/option/11.jpg" },
+            { "image": "./assests/option/12.jpg" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Look at the shapes in this picture.<br><img width='10%' src='./assests/images/11.png'><br> Which three different shapes are in this picture?",
+          "options": [
+            { "text": "Circle, square, rectangle" },
+            { "text": "Circle, triangle, rectangle" },
+            { "text": "Triangle, square, rectangle" },
+            { "text": "Triangle, circle, square" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "question": "This is a tube.<br><img width='20%' src='./assests/images/12.png'><br> What else can it be called?",
+          "options": [
+            { "text": "Circle" },
+            { "text": "Cone" },
+            { "text": "Cylinder" },
+            { "text": "Cube" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of the given statements is correct?",
+          "options": [
+            { "text": "March is the second month of the year." },
+            { "text": "There are 14 days in 2 weeks." },
+            { "text": "Summer is the next season after winter." },
+            { "text": "The last month of the year has 30 days." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "Look at the time on this clock.<br><img width='25%' src='./assests/images/13.png'><br> Write the digital time in the given blank boxes.",
+          "input": [
+            { "operand": "" },
+            { "operand": ":" },
+            { "operand": "" }
+          ],
+          "answer": ["11",":","40"]
+        },
+          {
+            "questionNo": 17,
+            "question": "This is a spinner.<br><img width='20%' src='./assests/images/14.png'><br> On the first spin Erik gets green. What colour will he get most likely on his next spin?",
+            "options": [
+              { "text": "Green" },
+              { "text": "Red" },
+              { "text": "Any of the given colours" },
+              { "text": "Any colour except green" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 18,
+            "question": "Mia is wrapping a gift box shaped like a rectangular prism.<br><img width='25%' src='./assests/images/15.png'><br> She wants to cover all its faces with wrapping paper. How many faces does the box have?",
+            "options": [
+              { "text": "3" },
+              { "text": "8" },
+              { "text": "4" },
+              { "text": "6" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 19,
+            "question": "Arlo is counting the money in his piggy bank.<br><img width='45%' src='./assests/images/16.png'><br> How much money does Arlo have in total?",
+            "options": [
+              { "text": "$3.60" },
+              { "text": "$3.00" },
+              { "text": "$2.60" },
+              { "text": "$3.50" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 20,
+            "question": "This is a die used for playing Ludo.<br><img width='17%' src='./assests/images/17.png'><br> If you roll the die once, what can you be sure of?",
+            "options": [
+              { "text": "You will get a 6." },
+              { "text": "You will win the game." },
+              { "text": "You could get any number from 1 to 6." },
+              { "text": "You have no chance of getting a 6." }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 21,
+            "question": "A red ball weighs 2 grams.<br><img width='27%' src='./assests/images/18.png'><br> If the book weighs 14 grams, how many more balls are needed to balance the scale?",
+            "options": [
+              { "text": "5" },
+              { "text": "6" },
+              { "text": "7" },
+              { "text": "8" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 22,
+            "question": "Select the correct option to continue the pattern.<br><img width='40%' src='./assests/images/19.png'>",
+            "options": [
+              { "image": "./assests/option/13.jpg" },
+            { "image": "./assests/option/14.jpg" },
+            { "image": "./assests/option/15.jpg" },
+            { "image": "./assests/option/16.jpg" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 23,
+            "question": "There are 12 soup cans placed in 3 rows.<br><img width='23%' src='./assests/images/20.png'><br> Which expression will tell us how many soup cans are in each row?",
+            "options": [
+              { "text": "12 ÷ 2" },
+              { "text": "12 ÷ 3" },
+              { "text": "3 ÷ 12" },
+              { "text": "12 ÷ 4" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 24,
+            "question": "Some children are riding the bus to school.<br><img width='30%' src='./assests/images/21.png'><br> At the first stop, <b>7 children</b> get on.<br> At the second stop, <b>4 children</b> get off, and <b>5 more</b> get on.<br> At the third stop, <b>half of the children</b> get off.<br> How many children are still on the bus?",
+            "options": [
+              { "text": "4" },
+              { "text": "5" },
+              { "text": "7" },
+              { "text": "8" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 25,
+            "question": "What fraction of the shape is coloured?<br><img width='15%' src='./assests/images/22.png'>",
+            "options": [
+              { "text": "1/5" },
+              { "text": "5/6" },
+              { "text": "1/6" },
+              { "text": "6/5" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 26,
+            "question": "Jasmine is drawing the outline of different objects.<br> When she traces around a candle, which shape does she get?<br><img width='12%' src='./assests/images/23.png'>",
+            "options": [
+              { "text": "Cylinder" },
+              { "text": "Cone" },
+              { "text": "Cube" },
+              { "text": "Cuboid" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 27,
+            "question": "Bella has a meeting every second Tuesday. If one meeting is on Tuesday, December 6th, what is the date of the next meeting?<br><img width='25%' src='./assests/images/24.png'>",
+            "options": [
+              { "text": "13 December" },
+              { "text": "20 December" },
+              { "text": "14 December" },
+              { "text": "18 December" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 28,
+            "question": "Below is a chart showing birthday months for girls and boys of the class.<br><img width='33%' src='./assests/images/25.png'><br> Which month has the most birthdays for girls?",
+            "options": [
+              { "text": "March" },
+              { "text": "May" },
+              { "text": "April" },
+              { "text": "June" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 29,
+            "question": "Which of the following objects is divided into two equal halves?",
+            "options": [
+              { "image": "./assests/option/17.jpg" },
+            { "image": "./assests/option/18.jpg" },
+            { "image": "./assests/option/19.jpg" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 30,
+            "question": "If <img width='12%' src='./assests/images/26.png'> then,<img width='30%' src='./assests/images/27.png'>",
+            "options": [
+              { "text": "10" },
+              { "text": "20" },
+              { "text": "40" },
+              { "text": "30" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 31,
+            "question": "Liam is buying two toy cars—one costs <b>$33</b> and the other costs <b>$28.</b><br> Can you estimate the total cost before he checks out?",
+            "options": [
+              { "text": "$50" },
+              { "text": "$60" },
+              { "text": "$70" },
+              { "text": "$80" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 32,
+            "question": "Here is a chart showing 4 different rows. <br><img width='45%' src='./assests/images/28.png'><br>On which row would you have the best chance of picking the donut?",
+            "options": [
+              { "text": "Row 1" },
+              { "text": "Row 2" },
+              { "text": "Row 3" },
+              { "text": "Row 4" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 33,
+            "question": "If Mia shares <b>42 chocolates</b> equally among <b>7 friends</b>, will each friend get an <b>even</b> or <b>odd</b> number of chocolates?",
+            "options": [
+              { "text": "Even" },
+              { "text": "Odd" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 34,
+            "question": "Harry found a fresh ear of corn at the market.<br><img width='40%' src='./assests/images/29.png'><br> The corn is about ______ paper clips long?",
+            "options": [
+              { "text": "4" },
+              { "text": "3" },
+              { "text": "5" },
+              { "text": "6" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 35,
+            "question": "How many lines of symmetry does the below given shape have?<br><img width='17%' src='./assests/images/30.png'>",
+            "options": [
+              { "text": "2" },
+              { "text": "4" },
+              { "text": "1" },
+              { "text": "0" }
+            ],
+            "answer": 2
+          }
+                
+      ]
+      
+      
+       
+    }
+  ]
+}
