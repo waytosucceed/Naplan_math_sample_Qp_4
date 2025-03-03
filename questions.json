@@ -8,10 +8,10 @@
           "questionNo": 1,
           "question": "What number will come next in this number pattern?<br><img width='35%' src='./assests/images/1.png'>",
           "options": [
-            { "text": "66" },
-            { "text": "86" },
-            { "text": "96" },
-            { "text": "76" }
+            { "text": "62" },
+            { "text": "82" },
+            { "text": "92" },
+            { "text": "72" }
           ],
           "answer": 0
         },
